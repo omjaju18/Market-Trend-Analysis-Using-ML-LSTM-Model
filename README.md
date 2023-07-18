@@ -1,4 +1,4 @@
-# Stock Market Prediction Using ML-LSTM Model
+# Market Trend Analysis  Using ML-LSTM Model
  
 Stock Market Prediction using LSTM Model. Use Jyputer Notebook .
 
